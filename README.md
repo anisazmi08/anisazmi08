@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @anisazmi08
-- 👀 I’m interested in learning about coding.
+- 👋 Hi, I’m Anis Rashidah.
+- 👀 I’m interested in learning about coding and system security.
 - 🌱 I’m currently learning in UniKL MIIT.
 - 📫 You can reach me at anis.azmi09@s.unikl.edu.my
 
